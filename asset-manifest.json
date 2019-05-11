@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marvel-characters/static/css/main.34de6062.chunk.css",
+    "main.js": "/marvel-characters/static/js/main.3b4f1123.chunk.js",
+    "main.js.map": "/marvel-characters/static/js/main.3b4f1123.chunk.js.map",
+    "runtime~main.js": "/marvel-characters/static/js/runtime~main.5c5e3208.js",
+    "runtime~main.js.map": "/marvel-characters/static/js/runtime~main.5c5e3208.js.map",
+    "static/js/2.3eb0df5e.chunk.js": "/marvel-characters/static/js/2.3eb0df5e.chunk.js",
+    "static/js/2.3eb0df5e.chunk.js.map": "/marvel-characters/static/js/2.3eb0df5e.chunk.js.map",
+    "index.html": "/marvel-characters/index.html",
+    "precache-manifest.6c6a3be4f50a4204d4e56fbc1727b9d3.js": "/marvel-characters/precache-manifest.6c6a3be4f50a4204d4e56fbc1727b9d3.js",
+    "service-worker.js": "/marvel-characters/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/marvel-characters/static/css/main.34de6062.chunk.css.map"
+  }
+}
