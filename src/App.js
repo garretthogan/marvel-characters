@@ -12,8 +12,9 @@ import {
 import querystring from 'querystring';
 import striptags from 'striptags';
 
+const env = require('./env.json');
+
 const API_URL = 'https://gateway.marvel.com/v1/public';
-const API_KEY = '5142b2959635103f816b1534685a2fd0';
 
 const OFFSET_INCREMENT = 20;
 
@@ -21,7 +22,7 @@ const getCharacters = query =>
   fetch(
     `${API_URL}/characters?${querystring.stringify({
       ...query,
-      apikey: API_KEY
+      apikey: env.API_KEY
     })}`
   )
     .then(res => res.json())
