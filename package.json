@@ -2,6 +2,7 @@
   "name": "character-appearances",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://garretthogan.github.io/marvel-characters",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "react": "^16.8.6",
